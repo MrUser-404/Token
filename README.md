@@ -12,4 +12,4 @@ python exec.py
 
 
 python update.py
-Thanks For using this tool😁
+🎉Thanks For using this tool😁
