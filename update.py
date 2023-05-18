@@ -10,6 +10,8 @@ os.system('cd && rm -rf Token && git clone https://github.com/MrUser-404/Token')
 os.system('clear')
 print('\033[1;97m[\033[1;92m✓\033[1;97m]Success For Update\033[0m')
 time.sleep(2)
+os.system('clear')
+print('\033[1;97mExit Termux and run this tool')
+time.sleep(3)
 exit()
-cd Token 
-python exec.py
+
