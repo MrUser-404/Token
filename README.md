@@ -6,7 +6,7 @@ apt install git
 pip install requests 
 git clone https://github.com/MrUser-404/Token 
 cd Token 
-python exec.py 
+python Token.py
 
 ####For update### 
 
