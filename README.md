@@ -1,3 +1,4 @@
+#Installation
 apt update 
 apt upgrade 
 apt install python 
@@ -8,8 +9,6 @@ git clone https://github.com/MrUser-404/Token
 cd Token 
 python Token.py
 
-####For update### 
+Tool Password: MrUser
 
-
-python update.py
 🎉Thanks For using this tool😁
